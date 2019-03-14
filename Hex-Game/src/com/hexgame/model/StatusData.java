@@ -1,6 +1,6 @@
 /*
  * ClassName 	: PlayerThread
- * Author 		: Charan Teja
+ * Author 		: Narender Soorineeda
  * version		: 1.0
  * Project		: Hex_Game- Human vs Human
 */
